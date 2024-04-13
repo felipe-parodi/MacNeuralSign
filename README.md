@@ -4,7 +4,7 @@ This repository contains the code associated with our research on the neural und
 
 Our work, titled "_Neural signatures of natural behavior in freely-socializing macaques_", was conducted by Testard & Tremblay et al. (2023) and can be accessed [here](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1). 
 
-![Macaques grooming](testrembetal/Fig3_Movement_analyses/Video Tracking/gh.gif)
+![Macaques grooming](Fig3_Movement_analyses/Video Tracking/gh.gif)
 
 ### Abstract
 
