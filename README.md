@@ -21,3 +21,16 @@ This repository contains all the code used for the analysis and visualization of
 The code is organized into several directories which are split by figure content and topic. We also include a folder for external toolboxes used in the code and a folder for preprcossing the data. Each script takes the preprocessed and formatted data as input (starts by running the function "log_GenerateDatToRes_function.m"). Make sure to add the full github directory to your path in Matlab. 
 
 If you have any questions about the code or data please reach Dr. Camille Testard at ctestard@fas.harvard.edu or camille.testard94@gmail.com
+
+## Citation
+If you use this work or dataset in your research, please cite us:
+
+```bibtex
+@article{testard2024neural,
+  title={Neural signatures of natural behaviour in socializing macaques},
+  author={Testard, Camille and Tremblay, S{\'e}bastien and Parodi, Felipe and DiTullio, Ron W and Acevedo-Ithier, Arianna and Gardiner, Kristin L and Kording, Konrad and Platt, Michael L},
+  journal={Nature},
+  pages={1--10},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
