@@ -2,7 +2,7 @@
 
 This repository contains the code associated with our research on the neural underpinnings of natural social behavior in primates (rhesus macaques). To access to raw data, go to: https://osf.io/e2xsu/
 
-Our work, titled "_Neural signatures of natural behavior in freely-socializing macaques_", was conducted by Testard & Tremblay et al. (2023) and can be accessed [here](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1). 
+Our work, titled "_Neural signatures of natural behavior in freely-socializing macaques_", was conducted by Testard & Tremblay et al. (2023). The Nature publication can be found [here](https://www-nature-com.proxy.library.upenn.edu/articles/s41586-024-07178-6) and the pre-print can be accessed [here](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1). 
 
 <div align="center">
   <img src="Fig3_Movement_analyses/Video%20Tracking/gh.gif" alt="Lovelace grooms Amos" width="480" />
